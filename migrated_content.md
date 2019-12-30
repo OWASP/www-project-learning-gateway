@@ -30,7 +30,7 @@ community of "Learner Innovators" while implementing "Learners Led" and
 project or become a local OWASP Brooklyn chapter supporter.
 
 Or consider the value of OWASP Brooklyn [Individual, Corporate, or
-Academic Supporter membership](Membership "wikilink"). Ready to become a
+Academic Supporter membership](Membership ). Ready to become a
 member? ![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
 "Join_Now_BlueIcon.JPG")
 
@@ -58,7 +58,7 @@ Laureano Batista, Jessica Ingrasselino and OWASP Foundation} {2016 -
 
 ## Project Chapter & Leaders
 
-Project Chapter: [OWASP Brooklyn](Brooklyn "wikilink")
+Project Chapter: [OWASP Brooklyn](Brooklyn )
 
 Project Leaders == Campus Champions: [Bev Corwin, Founder, Project
 Leader](mailto:bev.corwin@owasp.org), [Noreen Whysel, Co-Project
@@ -165,7 +165,7 @@ OWASP Learning Gateway Github:
 
 ### Grants
 
-<https://www.owasp.org/images/4/4b/Learning-Gateway-Proposal-Gateways2016-submissions.pdf>
+</www-pdf-archive/Learning-Gateway-Proposal-Gateways2016-submissions.pdf>
 
 ### Financials and Resources
 
@@ -215,4 +215,4 @@ community of technology learners. The gateway will offer learning
 pathways that connect learners with mentors and knowledge needed to be
 successful. Our goal is to be a successful OWASP and Gateways Project.
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
